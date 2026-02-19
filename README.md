@@ -49,8 +49,8 @@ These notes helped me understand core frontend concepts and practical implementa
 ## Notes File
 
 You can view or download the complete notes here:
+👉 **[Frontend Notes PDF](Frontend%20Notes.pdf)**
 
-👉 **[Frontend Notes PDF](Frontend-Notes.pdf)**
 
 ---
 
